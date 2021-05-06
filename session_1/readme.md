@@ -2,19 +2,23 @@
 
 ## What is a neural network neuron?
 
-Neural network neurons are similar to the biological neurons where they take an input, act on the input with an activation fuction and gives us an output. A single neuron will look as shown below.
-
-![Neuron](https://github.com/ganeshkcs/END2/blob/master/S1/Neuron.png)
-
-Collection of such neurons and their interactions will form a neural network.
+neuron is a mathematical function that model the functioning of a biological neuron. Typically, a neuron compute the weights average of its input, often called activation function, such as the sigmoid.
 
 ![Neural-Network](https://github.com/ganeshkcs/END2/blob/master/S1/Neural-network.png)
 
+Above neuron can take multiple inputs and does weighted average of those and pass it to neural network along.
+
 ## What is the use of learning rate?
 
-We know that at the end of forward propagation in neural network there would be difference between the actual value and the predicted value, this difference, between actual and predicted value is called as Loss/Error/Cost. To reduce the loss we need to update the weights and biases and this process is achieved by back propagation where based on the loss, the weights and biases that comes as input ( from previous hidden layer ) to the output layer is updated, similarly all the other layers ( except the layer 1 or the input layer ) are also updated. 
-                   
- If we plot a graph between the weight and cost ( Y axis ) as shown below 
+before knowing learning rate we should talk about below terms
+cost function: a cost function is a measure of the error in prediction committed by an algorithm, lower the error then better the model is
+
+gradient descent method: gradient descent is the popular optimization algorithm used in machine learning to estimate the model parameters. so we optimize above created cost function using gradescent algorithm.
+
+so now learning rate defined as a hyper parameter that controls how much we are adjusting the weights of our network with respect the loss/cost function gradient calculated using gradient descent method
+
+The lower the value, the slower we travel along the doward slope. While this might sound as a good idea in terms of making sure that we do not miss any local minima, it could also mean that we will be talking more to converge -- especially if we get stuck on plateau region.
+
  
  ![LR](https://github.com/ganeshkcs/END2/blob/master/S1/lr_different_ones.png)
 
@@ -82,7 +86,7 @@ Rewrite the Colab file and:
 * make sure there are in total 44 parameters
 * run it for 2001 epochs
 
-Link to the file https://github.com/ganeshkcs/END2/blob/master/S1/END2_0_Session_1.ipynb
+Link to the file https://github.com/kotalaraghava/END-2.0---school-of-ai/blob/master/session_1/END2_0_Session_1.ipynb
 
 
  
