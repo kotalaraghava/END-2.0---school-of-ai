@@ -18,6 +18,8 @@ we figure out how much of weights needs to be updated by taking derivative of ea
 below is the derivatives of last four weights in the above network.
 ![image](https://github.com/kotalaraghava/END-2.0---school-of-ai/blob/master/session_2/last_4_weights.png)
 
+similary derivatives of first four weights
+![image](https://github.com/kotalaraghava/END-2.0---school-of-ai/blob/master/session_2/first4weights.png)
 
 Then we subtract the each weights with new values with the maginitude of learning of rate.
 like this we prepare for each of all weights in our network.
