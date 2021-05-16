@@ -38,5 +38,5 @@ we can see below how by variaing different learning rate the maginitude of weigh
 
 at the end we choose the ones which gives us the best optimal parameters.
 
-#Links:
+# Links:
 XLS : https://github.com/kotalaraghava/END-2.0---school-of-ai/blob/master/session_2/BackPropagation.ods
