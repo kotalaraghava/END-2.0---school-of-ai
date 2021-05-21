@@ -8,7 +8,7 @@ we didn't do one-hot encoding because its numeric variable and don't want to com
 
 ## combined two inputs :
 
-took a argmax of image output 
+took a argmax of image output and stacked with random input number and passed onto further feed forward layers.
 
 
 ## evaluating results : 
@@ -17,7 +17,7 @@ we made test loader using the same stratagy as the train data loder and doing ev
 
 ## loss function : 
 
-for image classification we were using cross-entropy loss & mse loss for random_ouput evaluation.
+for image classification we were using cross-entropy loss as its a classification task & mse loss for random_ouput evaluation as its numeric variable.
 
 and combined loss is propagated back to update the weights.
 
