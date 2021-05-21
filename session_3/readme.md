@@ -21,3 +21,6 @@ for image classification we were using cross-entropy loss & mse loss for random_
 
 and combined loss is propagated back to update the weights.
 
+
+## GitHub Link : 
+https://github.com/kotalaraghava/END-2.0---school-of-ai/blob/master/session_3/MNSIT_Model.ipynb
