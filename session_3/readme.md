@@ -21,6 +21,9 @@ for image classification we were using cross-entropy loss as its a classificatio
 
 and combined loss is propagated back to update the weights.
 
+## Final Results:
+
+We were able to get >0.97 test accuracy in image classification and random number addition so that pretty compared to lot of room for hyperparameter tunning
 
 ## GitHub Link : 
 https://github.com/kotalaraghava/END-2.0---school-of-ai/blob/master/session_3/MNSIT_Model.ipynb
