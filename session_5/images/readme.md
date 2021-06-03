@@ -45,6 +45,6 @@ Test Results:
 ![image](https://github.com/JahnaviRamagiri/END2.0/blob/main/Session-5%20Sentiment%20Analysis%20using%20LSTM%20RNN/images/test_results.PNG)
 
 
+**Code ref link**:
 
-
-
+https://github.com/kotalaraghava/END-2.0---school-of-ai/blob/master/session_5/Sentiment_Analysis_using_LSTM_RNN.ipynb
