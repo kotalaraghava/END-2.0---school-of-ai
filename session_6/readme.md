@@ -42,3 +42,7 @@ The  Defined Parameters for each class are as mentioned below:
 
 ![](https://github.com/JahnaviRamagiri/END2.0/blob/main/Session6/images/Acuracy.png)
 
+
+
+**Notebook:**
+https://github.com/kotalaraghava/END-2.0---school-of-ai/blob/master/session_6/EncoderDecoderLSTM.ipynb
