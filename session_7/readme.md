@@ -1,6 +1,6 @@
 ﻿**Assignment**:
 
-Submit the Assignment 5 as Assignment 
+Submit the Assignment 7 as Assignment 
 1. To be clear,ONLY use datasetSentences.txt. (no augmentation required)
 2. Your dataset must have around 12k examples.
 3. Split Dataset into 70/30 Train and Test (no validation)
