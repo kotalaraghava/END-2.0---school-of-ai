@@ -41,9 +41,13 @@ Model Parameters
 **Results and Accuracy**:
 
 
+Training logs:
+![Training logs](https://github.com/kotalaraghava/END-2.0---school-of-ai/blob/master/session_7/images/training_log.png)
 
-Accuracy Curve Without Augmentation
-![accuracy curve without augmentation](https://github.com/JahnaviRamagiri/END2.0/blob/main/Session-5%20Sentiment%20Analysis%20using%20LSTM%20RNN/images/without_augmentation.png)
+
+Accuracy Curve Without Augmentation : 
+
+![accuracy curve without augmentation](https://github.com/kotalaraghava/END-2.0---school-of-ai/blob/master/session_7/images/accuracy_image.png)
 
 
 
@@ -53,4 +57,4 @@ Test Results:
 
 **Code ref link**:
 
-https://github.com/kotalaraghava/END-2.0---school-of-ai/blob/master/session_5/Sentiment_Analysis_using_LSTM_RNN.ipynb
+https://github.com/kotalaraghava/END-2.0---school-of-ai/blob/master/session_7/Sentiment_Analysis_using_LSTM_RNN.ipynb
